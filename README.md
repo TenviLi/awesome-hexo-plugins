@@ -916,10 +916,10 @@ npm install --save hexo-helper-live2d
 
 📘《从零开始的Hexo博客搭建教程》系列文章：
 
-1. [从零开始的Hexo博客搭建教程（一）：开始](/h94Rf-/)
-2. [从零开始的Hexo博客搭建教程（二）：主题](/0IxRfH/)
-3. [从零开始的Hexo博客搭建教程（三）：SEO优化](/i5bofg/)
-4. [从零开始的Hexo博客搭建教程（四）：图床](/JjDMWM/)
-5. [从零开始的Hexo博客搭建教程（五）：文章发布](/1eC0kV/)
-6. [从零开始的Hexo博客搭建教程（六）：插件](/hAbX6u/)
-7. [从零开始的Hexo博客搭建教程（七）：遇到的坑](/A-fgp4/)
+1. [从零开始的Hexo博客搭建教程（一）：开始](https://www.nuist.today/h94Rf-/)
+2. [从零开始的Hexo博客搭建教程（二）：主题](https://www.nuist.today/0IxRfH/)
+3. [从零开始的Hexo博客搭建教程（三）：SEO优化](https://www.nuist.today/i5bofg/)
+4. [从零开始的Hexo博客搭建教程（四）：图床](https://www.nuist.today/JjDMWM/)
+5. [从零开始的Hexo博客搭建教程（五）：文章发布](https://www.nuist.today/1eC0kV/)
+6. [从零开始的Hexo博客搭建教程（六）：插件](https://www.nuist.today/hAbX6u/)
+7. [从零开始的Hexo博客搭建教程（七）：遇到的坑](https://www.nuist.today/A-fgp4/)
