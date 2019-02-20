@@ -4,7 +4,42 @@
 >
 > 如果你有好的插件推荐，欢迎 pull requests 或 提出 Issues。
 
-<!-- more -->
+- [文章](#文章)
+  - [`hexo-auto-category` 根据文件目录自动生成文章分类](#hexo-auto-category-根据文件目录自动生成文章分类)
+  - [`hexo-renderer-markdown-it` 使用 markdown-it 作渲染器](#hexo-renderer-markdown-it-使用-markdown-it-作渲染器)
+  - [`hexo-related-popular-posts` 生成相关热门文章列表](#hexo-related-popular-posts-生成相关热门文章列表)
+  - [`hexo-description` 根据标记位置自动生成文章简介](#hexo-description-根据标记位置自动生成文章简介)
+- [SEO](#seo)
+  - [`hexo-baidu-url-submit` 向百度主动提交链接](#hexo-baidu-url-submit-向百度主动提交链接)
+  - [`hexo-autonofollow` 外链自动 nofollow](#hexo-autonofollow-外链自动-nofollow)
+  - [`hexo-seo-link-visualizer` 分析链接并可视化站点结构](#hexo-seo-link-visualizer-分析链接并可视化站点结构)
+  - [`hexo-baidu-url-push` 百度站长平台自动推送工具](#hexo-baidu-url-push-百度站长平台自动推送工具)
+- [生成器](#生成器)
+  - [`hexo-generator-topindex` 置顶文章](#hexo-generator-topindex-置顶文章)
+  - [`hexo-generator-feed` 生成博客 RSS](#hexo-generator-feed-生成博客-rss)
+  - [`hexo-generator-sitemap` 生成 sitemap.xml](#hexo-generator-sitemap-生成-sitemapxml)
+  - [`hexo-generator-baidu-sitemap` 生成 baidusitemap.xml](#hexo-generator-baidu-sitemap-生成-baidusitemapxml)
+- [工具](#工具)
+  - [`hexo-abbrlink` 生成文章唯一ID](#hexo-abbrlink-生成文章唯一id)
+  - [`hexo-nanoid` 用 nanoid 生成文章唯一ID](#hexo-nanoid-用-nanoid-生成文章唯一id)
+  - [`hexo-translate-title` 将汉字标题转成英文标题](#hexo-translate-title-将汉字标题转成英文标题)
+  - [`hexo-all-minifier` 压缩所有静态文件](#hexo-all-minifier-压缩所有静态文件)
+  - [`hexo-pwa` 支持PWA](#hexo-pwa-支持pwa)
+  - [`hexo-lazyload-image` 图片懒加载](#hexo-lazyload-image-图片懒加载)
+- [标签拓展](#标签拓展)
+  - [`hexo-codepen-v2` 插入 Codepen 代码片段](#hexo-codepen-v2-插入-codepen-代码片段)
+  - [`hexo-tag-kbd`  支持 kbd 标签](#hexo-tag-kbd--支持-kbd-标签)
+  - [`hexo-tag-color-block` 颜色标签](#hexo-tag-color-block-颜色标签)
+  - [`hexo-tag-hint`](#hexo-tag-hint)
+  - [`hexo-tag-bilibili` 插入bilibili视频](#hexo-tag-bilibili-插入bilibili视频)
+  - [`hexo-ruby-character`  Ruby character tag](#hexo-ruby-character--ruby-character-tag)
+  - [`hexo-github-card` GitHub 用户资料卡片](#hexo-github-card-github-用户资料卡片)
+  - [`hexo-caniuse` Can I Use CSS Features?](#hexo-caniuse-can-i-use-css-features)
+  - [`hexo-github` 追踪 GitHub 仓库 commit](#hexo-github-追踪-github-仓库-commit)
+- [部署](#部署)
+  - [`hexo-deployer-git` 部署到 Git](#hexo-deployer-git-部署到-git)
+- [美化](#美化)
+  - [`hexo-helper-live2d` 萌萌哒二次元看板娘](#hexo-helper-live2d-萌萌哒二次元看板娘)
 
 ## 文章
 
